@@ -1,6 +1,7 @@
-##So this is pretty much the first full webpage you might have ever created. Some tips to help get you with this:
+So this is pretty much the first full webpage you might have ever created. Some tips to help get you with this:
 
-##List the features required by the user stories and any other rules you must fulfill
+## List Features
+List the features required by the user stories and any other rules you must fulfill
 Just write them down on a piece of paper. Having them on paper and not in a file will make it quicker to refer to them during the design process.
 
 ##Layout your page on paper
